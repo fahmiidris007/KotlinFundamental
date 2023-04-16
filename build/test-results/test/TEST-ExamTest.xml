@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExamTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2023-02-21T07:09:16" hostname="INBOOK_X1" time="15.108">
+  <properties/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.016"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 2" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 2" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 2" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 4" classname="ExamTest" time="0.002"/>
+  <testcase name="Latihan 4" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 4" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 4" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="3.027"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="3.009"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="3.007"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.008"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.009"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
